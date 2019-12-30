@@ -8,11 +8,10 @@ Basically, this simplistic DNS client sends a UDP packet with a hostname given b
 * `java DNS_Client`
 
 ### Output example
-![](http://i67.tinypic.com/jhypoo.png)
+![](examples/example_1.png)
 
-![](http://i63.tinypic.com/209lxk2.png)
+![](examples/example_2.png)
 
-![](http://i64.tinypic.com/1580275.png)
 
 Tied with sister project [DNS-Server](https://github.com/Coursal/DNS-Server).
 
